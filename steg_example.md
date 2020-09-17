@@ -5,7 +5,7 @@ a process called [steganography](https://towardsdatascience.com/hiding-data-in-a
 I used a Python package called ["Stego-LSB"](https://pypi.org/project/stego-lsb/) built by Ryan Gibson.
 
 I found two .png files, and I hid the dice image inside of the grapefruit image.
-<p align="center"> <img src=https://github.com/flyboy1378/steganography_detection/images/unaltered.jpg </p>
+<p align="center"> <img src=https://github.com/flyboy1378/steganography_detection/blob/master/images/unaltered.JPG </p>
 
 <p align="center"> <img src=https://github.com/flyboy1378/steganography_detection/images/code.JPG </p>
 
