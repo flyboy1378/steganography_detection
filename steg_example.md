@@ -19,5 +19,6 @@ I figured if I create a numpy array out both the steg.png and the original grape
 `img_diff = np.subtract(gf_np, steg_np)`, then a `imshow(img_diff)` we can actually see where the dice.png was hidden.
 <p align="center"> <img src=https://github.com/flyboy1378/steganography_detection/blob/master/images/np_diff.JPG </p>
 
-https://github.com/flyboy1378/steganography_detection/blob/master/images/np_diff.JPG
 Just to show that the dice image could be recovered, I reversed the stego-LSB process from above.
+<p align="center"> <img src=https://github.com/flyboy1378/steganography_detection/blob/master/images/recovery_code.JPG </p>
+<p align="center"> <img src=https://github.com/flyboy1378/steganography_detection/blob/master/images/recovery.JPG </p>
